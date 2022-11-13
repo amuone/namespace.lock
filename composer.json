@@ -1,0 +1,18 @@
+{
+    "name": "amuone/namespace-lock",
+    "description": "The Namespace Locker",
+    "type": "project",
+    "keywords": [
+        "namespace lock"
+    ],
+    "authors": [
+        {
+            "name": "amuone",
+            "email": "contact@amuone.com",
+            "homepage": "https://www.amuone.com",
+            "role": "adminstrator"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
